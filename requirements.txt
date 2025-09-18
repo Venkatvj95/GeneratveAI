@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain_community
+python-dotenv
+langchain_core
+streamlit
+langchain-groq
+langchain-ollama
+arxiv
+wikipedia
+
+
+
+
+
