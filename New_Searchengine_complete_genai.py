@@ -22,7 +22,7 @@ search = DuckDuckGoSearchRun(name="search")
 
 # st.sidebar.title("Settings")
 # api_key = st.text_input("Enter your Groq API key", type="password")
-api_key = os.getenv("GROQ_API_KEY")
+api_key = "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"##os.getenv("GROQ_API_KEY")
 
 st.title("Langchain with search ")
 
@@ -53,6 +53,7 @@ if prompt:=st.chat_input(placeholder="what is machine learning"):
 
 
     
+
 
 
 
